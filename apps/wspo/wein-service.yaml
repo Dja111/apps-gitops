@@ -11,7 +11,7 @@ spec:
   source:
     chart: weinservice
     repoURL: "registry-1.docker.io/dja111"
-    targetRevision: 0.1.0-17eb581011d6be14326da4a4aaddb352e21b9564
+    targetRevision: 0.1.0-88f063a79e6d6f5a8e23111cb376a736e1585d13
     helm:
       releaseName: weinservice
   syncPolicy:
